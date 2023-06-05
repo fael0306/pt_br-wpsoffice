@@ -1,15 +1,5 @@
 # Pacote de Tradução e Dicionário do WPS Office 2019 para o Linux Mint 20.x
 
-<div align="center">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/vaamonde/pt_br-wpsoffice?style=plastic">
-<a href="https://github.com/vaamonde/pt_br-wpsoffice/stargazers"><img src="https://img.shields.io/github/stars/vaamonde/pt_br-wpsoffice" alt="Stars Badge"/></a>
-<a href="https://github.com/vaamonde/pt_br-wpsoffice/network/members"><img src="https://img.shields.io/github/forks/vaamonde/pt_br-wpsoffice" alt="Forks Badge"/></a>
-<a href="https://github.com/vaamonde/dpt_br-wpsoffice/pulls"><img src="https://img.shields.io/github/issues-pr/vaamonde/pt_br-wpsoffice" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/vaamonde/pt_br-wpsoffice/issues"><img src="https://img.shields.io/github/issues/vaamonde/pt_br-wpsoffice" alt="Issues Badge"/></a>
-<a href="https://github.com/vaamonde/pt_br-wpsoffice/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/pt_br-wpsoffice?color=2b9348"></a>
-<a href="https://github.com/vaamonde/pt_br-wpsoffice/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/pt_br-wpsoffice?color=2b9348" alt="License Badge"/></a>
-</div>
-
 ## Procedimentos para utilizar esse script no Linux Mint:
 
 #01_ Primeira etapa: Acessar o Terminal e verificar a versão do Linux Mint
