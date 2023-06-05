@@ -10,26 +10,6 @@
 <a href="https://github.com/vaamonde/pt_br-wpsoffice/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/pt_br-wpsoffice?color=2b9348" alt="License Badge"/></a>
 </div>
 
-## **Links Oficiais do Linux Mint e do WPS Office:**
-Site do Linux Mint: https://www.linuxmint.com/​<br>
-Blog do Linux Mint: https://blog.linuxmint.com/​<br>
-Site do WPS Office: https://www.wps.com/
-
-## **Alternativas de Pacote Office para o Linux Mint:**
-Site do Libre Office: https://pt-br.libreoffice.org/<br>
-Site do Free Office.: https://www.freeoffice.com/pt/<br>
-Site do Only Office.: https://www.onlyoffice.com/pt/
-
-## **Pacote de Dicionário Customizado para o WPS Office:**
-Github: https://raw.githubusercontent.com/rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary/master/portuguese-brazil.dic 
-
-## **Playlist do YouTUBE com todos os Vídeos do Linux Mint 20.x:**
-Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUOKXT6TIhjwPWBNpUoExsNF
-
-O pacote de Tradução e Dicionário do WPS Office 2019 para o Linux Mint 20.x foi retirado da versão do WPS Office para Windows. Infelizmente a comunidade que era responsável pela tradução e o dicionário da versão Community do WPS Office para GNU/Linux não está mais disponibilizando no site oficial do WPS Office os pacotes de tradução e o dicionário.
-
-Esse script foi testado na versão do WPS Office 2019 release 11.1.0.x no Linux Mint 20.x, antes de executar o script faça a instalação e configuração básica do Pacote .DEB do WPS Office 2019 do site oficial: https://www.wps.com/
-
 ## Procedimentos para utilizar esse script no Linux Mint:
 
 #01_ Primeira etapa: Acessar o Terminal e verificar a versão do Linux Mint
