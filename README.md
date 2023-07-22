@@ -1,4 +1,4 @@
-# Pacote de Tradução e Dicionário do WPS Office 2019 para o Linux Mint 20.x
+# Pacote de Tradução e Dicionário do WPS Office para o Linux Mint
 
 ## Procedimentos para utilizar esse script no Linux Mint:
 
